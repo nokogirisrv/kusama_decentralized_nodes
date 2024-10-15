@@ -282,4 +282,3 @@ docker rm kusama_node
 cd $HOME
 rm -rf .kusama/
 ```
-```
